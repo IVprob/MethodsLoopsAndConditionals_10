@@ -8,5 +8,10 @@ namespace MethodsWithLoopsAndConditionals_10
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void RangeOfK()
+        {
+            // This has been midified to test the git commit
+        }
     }
 }
